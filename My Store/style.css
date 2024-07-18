@@ -109,6 +109,10 @@ h1 {
     padding: 10px 15px;
     font-size: 1em;
     border: 1px solid #ddd;
-    background-color: white;
     cursor: pointer;
+}
+
+.active {
+    background-color: #0000FF;
+    color: white;
 }
